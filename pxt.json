@@ -2,7 +2,8 @@
     "name": "lost in the dark",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "lost in the dark": "pub:71242-34700-39461-35566"
     },
     "files": [
         "main.blocks",
